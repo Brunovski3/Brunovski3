@@ -13,7 +13,7 @@ personal_information()
 
 def i_use():
     tools = {
-        "IDEs": ["Cursor", "VSCode"],
+        "IDEs": ["IntelliJ", "VSCode"],
         "Databases": "MySql",
         "OS": ["Windows"],
         "Interests": ["Back-end Developer", "Cyber security"],
