@@ -5,7 +5,6 @@ def personal_information():
     info = {
         "Name": "Bruno Ferreira",
         "Age": 18,
-        "City": "Ribeirão Preto",
         "State": "São Paulo",
         "Country": "Brazil",
     }
@@ -14,9 +13,9 @@ personal_information()
 def i_use():
     tools = {
         "IDEs": ["IntelliJ", "VSCode"],
-        "Databases": "MySql",
-        "OS": ["Windows"],
-        "Interests": ["Back-end Developer", "Cyber security"],
+        "Databases": ["MySql", "PostgreSQL"]
+        "OS": ["Windows", "Oracle Linux"],
+        "Interests": ["Back-end Developer", "DevOps"],
 i_use()
 ```
 # Main Stack...
