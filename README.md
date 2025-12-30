@@ -14,7 +14,7 @@ def i_use():
     tools = {
         "IDEs": ["IntelliJ", "VSCode"],
         "Databases": ["MySql", "PostgreSQL"]
-        "OS": ["Windows", "Oracle Linux"],
+        "OS": ["Windows", "Oracle Linux", "Fedora"],
         "Interests": ["Back-end Developer", "DevOps"],
     }
 i_use()
