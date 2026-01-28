@@ -1,36 +1,42 @@
 # Olá, sou o [Bruno Ferreira](https://github.com/Brunovski3/)! <a href="https://github.com/Brunovski3/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-```Python
+```python
 def personal_information():
     info = {
         "Name": "Bruno Ferreira",
-        "Age": 18,
-        "State": "São Paulo",
+        "Age": 19,
+        "Location": "Ribeirão, São Paulo",
         "Country": "Brazil",
+        "Role": "IT Infrastructure | Backend Developer",
+        "Company": "CCM Tecnologia"
     }
-personal_information()
+    return info
 
 def i_use():
     tools = {
-        "IDEs": ["IntelliJ", "VSCode"],
-        "Databases": ["MySql", "PostgreSQL"]
+        "Languages": ["Java", "Go", "Python"],
+        "IDEs": ["IntelliJ IDEA", "VSCode"],
+        "Databases": ["MySQL", "PostgreSQL", "MariaDB"],
+        "Cloud & DevOps": ["OCI", "Docker", "Kubernetes", "Ansible", "n8n"],
         "OS": ["Windows", "Oracle Linux", "Fedora"],
-        "Interests": ["Back-end Developer", "DevOps"],
+        "Interests": ["Backend Development", "DevOps", "Cloud Infrastructure", "Automation"]
     }
-i_use()
-
+    return tools
 ```
-# Main Stack...
+
+## 🚀 Main Stack
 <p align="center">
-   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-   <i class="devicon-bash-plain colored"></i>
    <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/java/java-original.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/spring/spring-original.svg" width="50" height="50"/>
+   <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/spring/spring-original.svg" width="50" height="50"/>
+   <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/go/go-original.svg" width="50" height="50"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
-</a>
+   <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/docker/docker-original.svg" width="50" height="50"/>
+   <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/kubernetes/kubernetes-plain.svg" width="50" height="50"/>
 </p>
 
-![Studying](https://img.shields.io/badge/Stuying:-∞-blue)
-![School](https://img.shields.io/badge/School:-CBM-purple)
-![Projects for business](https://img.shields.io/badge/Projects_for_business:-3-purple)
+![Studying](https://img.shields.io/badge/Studying:-Always-blue)
+![Focus](https://img.shields.io/badge/Focus:-Backend_&_DevOps-purple)
+![Projects](https://img.shields.io/badge/Enterprise_Projects:-Active-green)
 
+## 📫 Connect with me
+[![GitHub](https://img.shields.io/badge/GitHub-Brunovski3-181717?style=flat&logo=github)](https://github.com/Brunovski3/)
