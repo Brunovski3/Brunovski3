@@ -14,7 +14,7 @@ def personal_information():
 
 def i_use():
     tools = {
-        "Languages": ["Java", "Go", "Python"],
+        "Languages": ["Java", "Python"],
         "IDEs": ["IntelliJ IDEA", "VSCode"],
         "Databases": ["MySQL", "PostgreSQL", "MariaDB"],
         "Cloud & DevOps": ["OCI", "Docker", "Kubernetes", "Ansible", "n8n"],
@@ -28,7 +28,6 @@ def i_use():
 <p align="center">
    <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/java/java-original.svg" width="50" height="50"/>
    <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/spring/spring-original.svg" width="50" height="50"/>
-   <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/go/go-original.svg" width="50" height="50"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
    <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/docker/docker-original.svg" width="50" height="50"/>
    <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/kubernetes/kubernetes-plain.svg" width="50" height="50"/>
