@@ -171,4 +171,3 @@ developer:
 ![Open to](https://img.shields.io/badge/open_to-challenges-22C55E?style=flat-square)
 
 </div>
-```
