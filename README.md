@@ -91,7 +91,7 @@ bruno:
 
 ### DevOps & Cloud Intern · CCM Tecnologia
 
-- Sustaining an **on-prem environment composed of 6 servers**, hosting internal applications and containerized services.
+- Sustaining an **on-prem environment composed of 6 clusters**, hosting internal applications and containerized services.
 - Managing workloads running on **Docker**, with **Traefik** handling reverse proxy and internal/external routing.
 - Managing and monitoring environments in **Oracle Cloud Infrastructure (OCI)**.
 - Building and maintaining **CI/CD and GitOps workflows** using GitHub Actions and Komodo.
